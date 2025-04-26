@@ -234,7 +234,7 @@ export default function Home() {
             <div>
               <h3 className="font-bold mb-4">Contact</h3>
               <ul className="space-y-2 text-gray-400">
-                <li>team.mentraai@gmail.com</li>
+                <li> team.mentraai@gmail.com </li>
               </ul>
             </div>
           </div>
