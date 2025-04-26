@@ -8,7 +8,7 @@ import Hero3DModel from "@/components/hero-3d-model";
 import { TeamSection } from "@/components/team-section";
 import { AIAgentsSection } from "@/components/ai-agents-section";
 import { TestimonialsSection } from "@/components/testimonials-section";
-import { FAQSection } from "@/components/faq-section";
+import { FAQSection } from "@/components/faq-section"; 
 import { StatsSection } from "@/components/stats-section";
 import { NewsletterSection } from "@/components/newsletter-section";
 import { useState } from "react"; // ✅ moved to the top
